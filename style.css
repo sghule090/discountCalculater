@@ -1,0 +1,67 @@
+*{
+    color: white;
+}
+body{
+    background-color: rgb(247, 237, 219);
+}
+.container{
+    width: 800px;
+    background-color:gray;
+    margin-left: 350px;
+    margin-top: 300px;
+    border-radius: 10px;
+}
+h2 {
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Righteous', cursive;
+    color: black;
+   text-decoration: underline;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: x-large;
+    margin-left: 20px;
+}
+form{
+    margin-left: 20px; 
+    font-size: x-large;
+    font-weight: bolder;
+}
+input{
+    width: 300px;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    color:rgb(8, 0, 0);
+    font-weight: bolder;
+    font-size: x-large;
+}
+#labelBill{
+    margin-right: 78px;
+}
+#calculator{
+    padding: 20px;
+    width: 200px;
+    color: rgb(35, 14, 224);
+    font-weight: bolder;
+    border-radius: 10px;
+    margin-left: 235px;
+    font-size: small;
+    margin-top: 25px;
+}
+#calculator:hover{
+    background-color: rgb(200, 209, 235);
+}
+#total{
+    text-align: centers;
+}
+
+.icon{
+    margin-left: 650px;
+    font-size: 20px;
+word-spacing: 10px;
+}
